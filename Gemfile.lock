@@ -93,6 +93,7 @@ PLATFORMS
 
 DEPENDENCIES
   base32
+  builder
   git
   google_authenticator_auth
   haml

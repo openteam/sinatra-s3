@@ -10,6 +10,7 @@ end
 
 gem 'git'
 gem 'base32'
+gem 'builder'
 gem 'google_authenticator_auth'
 gem 'rails', '~> 3.0.0', :require => false
 gem 'sinatra'
